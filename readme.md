@@ -1,4 +1,4 @@
-Simple Producer-Consumer Framework written by GO programming language
+Simple Worker Framework written by GO programming language
 
 实现：
 1. 一个简单的工作者模式框架
